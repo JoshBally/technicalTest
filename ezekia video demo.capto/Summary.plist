@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DocUploadURL</key>
+	<dict/>
+	<key>DocumentCreationDate</key>
+	<date>2020-01-23T12:37:48Z</date>
+	<key>DocumentCreator</key>
+	<string>Capto</string>
+	<key>DocumentDuration</key>
+	<integer>61</integer>
+	<key>DocumentMediaType</key>
+	<integer>1</integer>
+	<key>DocumentName</key>
+	<string>Capto_Capture 2020-01-23_12-37-48_pm</string>
+	<key>DocumentPublishType</key>
+	<array/>
+	<key>DocumentSize</key>
+	<string>{1440, 900}</string>
+	<key>DocumentType</key>
+	<integer>4</integer>
+	<key>MovieName</key>
+	<string>Capto_Capture 2020-01-23_12-37-48_pm.mov</string>
+</dict>
+</plist>
